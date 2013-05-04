@@ -1,0 +1,11 @@
+{
+	"title"		:	"Peace Walker Core",
+	"type"		:	"npc",
+	"tags"		:	[ "scenic", "cartoon" ],
+	"ignore"	:
+	[
+		"*.md",
+		"*.git*",
+		"*.txt"
+	]
+}
